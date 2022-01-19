@@ -1,3 +1,3 @@
-str1 = input("please input a pepole's name:")
-str2 = input("please input a place's name")
-print("The world is so big,{} want to go to {} to have a look。".format(str1,str2))
+str1 = input("请输入一个人名:")
+str2 = input("请输入一个地名:")
+print("世界这么大,{}想去{}看看".format(str1,str2))
